@@ -1,0 +1,16 @@
+[
+{
+  "modid": "neid",
+  "name": "Not Enough Ideas",
+  "description": "When you run out of ideas...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ParkerMc"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
